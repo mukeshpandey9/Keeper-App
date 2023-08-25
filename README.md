@@ -1,6 +1,6 @@
 # Keeper-App
 
-Made a clone of google keeps using <h4>React</h4>. 
+Made a clone of google keeps using <b>React</b>. 
 
 <h2>Functions:-</h2>
 <br/>
