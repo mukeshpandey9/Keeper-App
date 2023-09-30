@@ -1,6 +1,6 @@
 # Keeper-App
 
- Made a clone of google keeps using <b>React</b>. 
+Made a clone of google keeps using <b>React</b>. 
 <br>
 <a href="https://keepermp.netlify.app/" >Demo Link</a>
 
